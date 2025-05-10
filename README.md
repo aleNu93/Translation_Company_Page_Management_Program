@@ -37,7 +37,7 @@ The project was developed in **Java** using **NetBeans** as the Integrated Devel
 
 ## 👨‍💻 My Role
 
-Although this was a team project, I was responsible for developing approximately **50%** of the code, focusing on the core logic, class design, product management, and purchase simulation., **Main**, and **Cliente** classes. **Samuel** contributed the remaining **50%**, working primarily on the **Hojas** class.
+Although this was a team project, I was responsible for developing approximately **50%** of the code, focusing on the core logic, class design, product management, and purchase simulation, **Main**, and **Cliente** classes. **Samuel** contributed the remaining **50%**, working primarily on the **Hojas** class.
 
 ---
 
